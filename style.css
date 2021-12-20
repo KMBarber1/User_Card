@@ -1,0 +1,65 @@
+.profile{
+    /* background-color: green; */
+    /* text-align: center; */
+    /* height: 100%; */
+    width: 100%;
+    padding: 1em;
+    /* margin-right: 1em; */
+}
+
+.profile-contents {
+    padding-left: 1em;
+    margin-bottom: 0.25em;
+}
+
+.user-card {
+    border: 5px solid cornflowerblue;
+    height: 500px;
+    width: 80%;
+    margin-bottom: 0em;
+}
+
+.user-card div:first-child {
+    height: 21%;
+    width: 100%;
+    margin-bottom: 5em;
+    background-color: cornflowerblue;
+}
+
+.circle {
+    height: 9em;
+    width: 9em;
+    margin-top: 2em;
+    margin-left: 2em
+}
+
+.map {
+    width: 20px;
+    height: 30px;
+}
+
+.gear {
+    width: 20px;
+    height: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+/* .justify-between {
+    justify-content: space-between;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.align-center {
+    align-items: center;
+} */
+
+.col-3 {
+    flex: 2;
+    /* background-color: hotpink; */
+} 
